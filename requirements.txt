@@ -1,0 +1,6 @@
+These are the needed samples to build the bot with Kendra
+
+Note there are different .py files depending on chosen model
+There are also options to chose between kendra enterprise and kendra developer editions
+
+https://github.com/aws-samples/amazon-kendra-langchain-extensions/tree/main/kendra_retriever_samples
